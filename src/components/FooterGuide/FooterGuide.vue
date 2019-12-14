@@ -35,7 +35,7 @@
 </script>
 
 <style scoped lang="stylus" rel="stylesheet/stylus">
-@import '../../common/stylus/mimixins.styl'
+@import '../../common/stylus/mixins.styl'
   .footer-guide
     top-border-1px(#cccccc)
     display flex

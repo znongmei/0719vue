@@ -1,5 +1,6 @@
 /* 
 向外暴露路由器对象模块
+入口文件
 */
 import Vue from 'vue'
 import VueRouter from 'vue-router'

@@ -24,4 +24,9 @@ export default[
     component:Profile
   },
 
+  {
+    path:'/',
+    redirect:'/msite'
+  }
+
 ]
